@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="airlight.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="614" topLine="36" />
+	</File>
+	<File name="darkchannel.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="422" topLine="13" />
+	</File>
+	<File name="dcp.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1478" topLine="0" />
+	</File>
+	<File name="dcp_core.h" open="1" top="0" tabpos="1">
+		<Cursor position="344" topLine="0" />
+	</File>
+	<File name="guidedfilter.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="530" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="77" topLine="0" />
+	</File>
+	<File name="recover.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="903" topLine="0" />
+	</File>
+	<File name="transmission.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="981" topLine="5" />
+	</File>
+	<File name="utility.h" open="1" top="0" tabpos="2">
+		<Cursor position="77" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
